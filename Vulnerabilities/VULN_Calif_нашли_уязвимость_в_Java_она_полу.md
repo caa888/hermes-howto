@@ -1,0 +1,27 @@
+---
+aliases: []
+tags: [vulnerabilities, infosec, "tg/@tg_security"]
+source: https://t.me/tg_security/7679
+date: 2026-11-18
+---
+
+# VULN: Calif нашли уязвимость в Java — она полу
+
+
+![Иллюстрация](https://cdn4.telesco.pe/file/B9r2WJlmWx_iF75yFEZykO6pujoxkkHO3Nb2KYknwiQP7XWgDpOxfzrkU-sz98MgCJ7oIs1HBae675AqhTY7Zl8NVWTscNqtGSld1SnXMpdhuY_dLDZ2fU9lKZ7hlycy9zXj4gIlNtt2bYJe0xYjd-GwBlSSaWe7okmOZk_VKTk3EpXoEQtrtCvTpy2PONkaIs8pm2rjP2MMWFQHJT5kry9pgtuecwTnmIWMFUYOzasrpGgReMiwSXDTN2GiXcnfF1SDQkvR7-MJbQQB2JNCcE7CffrEYMGYT9APtu1f4yCJu3j_XwqQcGmY9i6BnCvQ46HOEL975UzlzACtm4bc2w.jpg)
+
+
+## Содержание
+Calif нашли уязвимость в Java — она получила название Java4Shell. Memory corruption уязвимость была найдена в самой среде выполнения OpenJDK и получила оценку 9,2 балла из 10 по шкале CVSS 4.0 (хотя Oracle оценила её в 8,1 по CVSS 3.1). Она позволяет злоумышленникам без аутентификации удаленно выполнять произвольный код на уязвимых серверах. Благо необходимые патчи уже выпущены, поэтому самое время обновляться.
+
+---
+## Источник
+- Канал: [[@tg_security]]
+- Оригинал: [Читать в Telegram](https://t.me/tg_security/7679)
+
+## Связанные заметки (Двунаправленные ссылки)
+- [[VULN_Обновление_БДУ_Обновлены_сведения_об_уяз | VULN: Обновление БДУ Обновлены сведения ...]]
+- [[CVE-2026-116331_Уязвимость_функций_min_и_max_системы | CVE-2026-116331: Уязвимость функций min(...]]
+- [[CVE-2026-114938_Уязвимость_компонента_Compiler_программн | CVE-2026-114938: Уязвимость компонента C...]]
+- [[VULN_Уязвимость_платформы_для_работы_с_кодом | VULN: Уязвимость платформы для работы с ...]]
+- [[VULN_Обновление_БДУ_Обновлены_сведения_об_уяз | VULN: Обновление БДУ Обновлены сведения ...]]

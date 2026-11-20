@@ -1,0 +1,27 @@
+---
+aliases: []
+tags: [vulnerabilities, devops_dev, "tg/@devopslife"]
+source: https://t.me/devopslife/1148
+date: 2026-11-20
+---
+
+# VULN: AI пишет код: чем его проверять 👀 Автор:
+
+
+![Иллюстрация](https://cdn4.telesco.pe/file/manhPMrpSsWz9wvYIw6Mx8ArTdirRpj1AZZbctf1DI5qjHu4I2eIoezqVu-dK2TDomWEIxQuE5PA3tGet9rQEvcn37Lf0wZJxEWost_IlmM5Wju44FdcQ2zu9h7GgjNJIVTzmoiXDr5o5BhnbSZR_PLjlY-W4gOWRYa4QyiWWgLFbbMFDZhkpkyVjVD9vqo7HA7LHsFAfWE0LoU96NFskc1MiVWysouUb-rbUg3DIl9bYSNP4m7TJJbSqp9KLx_ITUoN-4l1SP4pIWJr-L6mKfJN806WNAoZl6z2DXZ7uQEUn1MHFljNvmaEqXTP7El0UQu8I5hfrIA0QzwjgRCMmg.jpg)
+
+
+## Содержание
+AI пишет код: чем его проверять 👀 Автор: @m0nr0e21 AI помогает писать код быстрее, но проверять его безопасность всё равно нужно. Собрали инструменты для анализа AI-агентов, кода и приложений ⬇️ 1️⃣ AI-СИСТЕМЫ И АГЕНТЫ 0️⃣ PyRIT — RedTeam-тестирование AI-моделей и приложений 0️⃣ BLA — защита от AI-агентов, выполняющих реверс-инжиниринг 0️⃣ SkillSpector — проверка навыков AI-агентов на риски и уязвимости 2️⃣ ПРОВЕРКА КОДА 0️⃣ Claude Code Security Reviewer — проверка изменений в коде с помощью Claude 0️⃣ Codex Security — поиск, проверка и исправление уязвимостей 0️⃣ Semgrep — статический анализ кода 0️⃣ Security-audit — навык для аудита безопасности кода с помощью AI-агента 3️⃣ УТЕЧКИ И УЯЗВИМОСТИ 0️⃣ ClamAV — поиск вредоносных файлов 0️⃣ TruffleHog — поиск утёкших учётных данных 0️⃣ Trivy — поиск уязвимостей, ошибок конфигурации и секретов 4️⃣ ПРИЛОЖЕНИЯ И ИНФРАСТРУКТУРА 0️⃣ Nuclei — сканер уязвимостей на основе YAML-шаблонов 0️⃣ Strix — открытый AI-инструмент для пентеста приложений Спасибо @m0nr0e21 за составление подборки 💙 #ai #dso #pentest 🧿 Платформа | 👋 Чат
+
+---
+## Источник
+- Канал: [[@devopslife]]
+- Оригинал: [Читать в Telegram](https://t.me/devopslife/1148)
+
+## Связанные заметки (Двунаправленные ссылки)
+- [[Superpowers_это_полноценная_методологи | Superpowers — это полноценная методологи...]]
+- [[CVE-2026-114938_Java4Shell_RCE_уязвимость_в_декодировщ | CVE-2026-114938: Java4Shell - RCE-уязвим...]]
+- [[CVE-2026-123007_NGINX2Root_уязвимости_в_nginx_позволя | CVE-2026-123007: NGINX2Root - уязвимости...]]
+- [[VULN_Уязвимости_в_Ruby_допускающие_удалённое | VULN: Уязвимости в Ruby, допускающие уда...]]
+- [[VULN_Релиз_языка_программирования_PHP_86_Се | VULN: Релиз языка программирования PHP 8...]]

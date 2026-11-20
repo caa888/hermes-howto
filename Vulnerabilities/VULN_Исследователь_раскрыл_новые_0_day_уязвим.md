@@ -1,0 +1,27 @@
+---
+aliases: []
+tags: [vulnerabilities, infosec, "tg/@libs_of_hackers"]
+source: https://t.me/libs_of_hackers/1577
+date: 2026-11-19
+---
+
+# VULN: Исследователь раскрыл новые 0-day-уязвим
+
+
+![Иллюстрация](https://cdn4.telesco.pe/file/qlUw0PSRmdtalGR13i3alBI24SptJwRR3TrJsrDhx_1yYEg8KFkcAAvDPwSNKmpiZFu7aOwVAiin9L6L_pNcMHH956PnP_vx_CJ0Z5PFBanLo-ypeCaCKB544jayy7svNgXwxAQ21EeAXj9xX66JNnVKnslmt5Sgd-kWnGGak3TbiUMs77zHIlFGtRYX7vdgNdLyyGZXcMwP-xXo_1uGnPGGHBLyHcy58g0NyCVKlnLcrMPQYaBNvwOOuV8Xxy5RfI4sgBOIEM2cwNBaWVPW4IjITy48hpMpOnKhdhd3xNsmuCkKoDMCPs8PU6ckABJ-6panLH7kSwGZSgF3uuchyQ.jpg)
+
+
+## Содержание
+Исследователь раскрыл новые 0-day-уязвимости в продуктах N-able Исследователь обнаружил новые уязвимости в N-able N-central, которые позволяют обойти выпущенный недавно хотфикс, получить root-доступ к серверу или права уровня SYSTEM на управляемых Windows-системах. Хакеры начали использовать один из эксплоитов для новых багов уже через несколько часов после публикации PoC, и в ответ разработчики выпустили новый хотфикс, исправивший еще 17 уязвимостей и блокирующий цепочку атаки 4EverAble2Shell. https://xakep.ru/2026/11/19/4everable2shell/ @libs_of_hackers
+
+---
+## Источник
+- Канал: [[@libs_of_hackers]]
+- Оригинал: [Читать в Telegram](https://t.me/libs_of_hackers/1577)
+
+## Связанные заметки (Двунаправленные ссылки)
+- [[VULN_Обновление_БДУ_Обновлены_сведения_об_уяз | VULN: Обновление БДУ Обновлены сведения ...]]
+- [[CVE-2026-116331_Уязвимость_функций_min_и_max_системы | CVE-2026-116331: Уязвимость функций min(...]]
+- [[CVE-2026-114938_Уязвимость_компонента_Compiler_программн | CVE-2026-114938: Уязвимость компонента C...]]
+- [[VULN_Уязвимость_платформы_для_работы_с_кодом | VULN: Уязвимость платформы для работы с ...]]
+- [[VULN_Обновление_БДУ_Обновлены_сведения_об_уяз | VULN: Обновление БДУ Обновлены сведения ...]]

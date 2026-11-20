@@ -1,14 +1,27 @@
 ---
 aliases: []
-tags: [howto, devops_dev, tg/@github]
+tags: [howtos, devops_dev, "tg/@github"]
 source: https://t.me/github/11812
 date: 2026-11-20
 ---
 
-# Superpowers — это полноценная методология разработки программного обеспечения дл...
+# Superpowers — это полноценная методологи
 
-## Описание
+
+![Иллюстрация](https://cdn4.telesco.pe/file/LrjNwEXbhPfo2tIxZYZyAhiBaHC7qxDjM2ZFKdW7wGvSWMzy9jLQkcrq4LAGK03zWbrgf7-plmq0HSf8CvjrO3ADo1IQt-6e2n7Be4jlD2ufgyNrLSsjnwtg5qYK_e_5lgATbEcEwYfHXWYxEeTpFrDlboFXJ2OlrKy-vCILvaX3ayaPJgf-ScYrdPe1V63g79DABlc1HBdtMbRssBXvtrLb_N1Gb-G0-7RCsigEvBqrMPhyIO6UC4rAKCEOPXZuEG1W4-Fx1vbi7f3Ursw1P5exkoXDLxBX18Qn52gY2bqKo_GHe0DkqifCBxsxvJ-S3oXNrQAf2vkQZk4gkY05JQ.jpg)
+
+
+## Содержание
 Superpowers — это полноценная методология разработки программного обеспечения для ваших кодовых агентов, основанная на наборе комбинируемых навыков и некоторых начальных инструкциях, которые гарантируют, что ваш агент будет их использовать. 🐱 GitHub
 
-## Ссылки
-- Источник: [/@github](https://t.me/github/11812)
+---
+## Источник
+- Канал: [[@github]]
+- Оригинал: [Читать в Telegram](https://t.me/github/11812)
+
+## Связанные заметки (Двунаправленные ссылки)
+- [[CVE-2026-114938_Java4Shell_RCE_уязвимость_в_декодировщ | CVE-2026-114938: Java4Shell - RCE-уязвим...]]
+- [[CVE-2026-123007_NGINX2Root_уязвимости_в_nginx_позволя | CVE-2026-123007: NGINX2Root - уязвимости...]]
+- [[VULN_Уязвимости_в_Ruby_допускающие_удалённое | VULN: Уязвимости в Ruby, допускающие уда...]]
+- [[VULN_Релиз_языка_программирования_PHP_86_Се | VULN: Релиз языка программирования PHP 8...]]
+- [[CVE-2026-128064_Уязвимость_в_PHP_приводящая_к_отправке | CVE-2026-128064: Уязвимость в PHP, приво...]]

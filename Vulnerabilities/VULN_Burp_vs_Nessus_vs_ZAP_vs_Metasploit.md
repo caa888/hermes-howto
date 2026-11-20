@@ -1,0 +1,27 @@
+---
+aliases: []
+tags: [vulnerabilities, devops_dev, "tg/@it_fullstak"]
+source: https://t.me/it_fullstak/3731
+date: 2026-11-18
+---
+
+# VULN: 🛡️ Burp vs Nessus vs ZAP vs Metasploit:
+
+
+![Иллюстрация](https://cdn4.telesco.pe/file/jP7gfPsaIcn4f6gRoasSFQQC9izY5cCjkIILKCRyfPt4Z4KYDx8fCHIsDU5mlnL_6lH8zqayBVZjdjj6B3gdLJCdEJKW1A-lmlzIcxB3dnTXO9yvn6dOr0y1WsIL66R6SGPdsqszPqj5ftx2iG5pZAx9uZxKdxtJu3Gx49Ah4BfUjZK726rkZGlCNVVWk3RfQ2gBUIhuwn8MMEwqmGgSbnWVk53LsxNr9lmnfgWUijR8FhGthS_l7w4IjvrtyemNkR4QlqlKpgqCKJem8vUTEZr_9C3gJxscozE8kYR1RKAFJsbj0almiiN81v0z-i8um8TgzOdzUgT36PyUIVe55A.jpg)
+
+
+## Содержание
+🛡️ Burp vs Nessus vs ZAP vs Metasploit: сравнение 2026 Четвёрка Burp Suite, ZAP, Nessus и Metasploit — не «рейтинг лучших», а рабочий набор, покрывающий полный цикл offensive-engagement от сканирования до exploitation Burp Suite — перехватывающий прокси и сканер веб-уязвимостей. Ручное тестирование бизнес-логики, API, JWT, OAuth. Стандарт де-факто для web-пентеста — тут без вариантов. ZAP (ранее OWASP ZAP) — бесплатный DAST-сканер с Automation Framework для CI/CD. Прямой конкурент Burp в сегменте веб-тестирования, но с фокусом на автоматизацию. Nessus — инфраструктурный сканер. 200 000+ плагинов для проверки хостов, сервисов и конфигураций на известные CVE. Compliance-отчёты из коробки. Metasploit — фреймворк эксплуатации. 4000+ exploit-модулей (по данным guideflow.com ). Когда сканер показал "critical" — Metasploit превращает это в работающий shell. — В данной статье мы рассмотрим возможности Burp Suite, Nessus, OWASP ZAP и Metasploit, сравним их сильные и слабые стороны, стоимость, ограничения бесплатных версий и реальные сценарии применения Отдельное внимание уделим практическим связкам инструментов : как выстроить процесс от сканирования до подтверждения уязвимости, какие решения подойдут начинающим пентестерам и когда платные версии действительно оправдывают свою стоимость • Читать статью #BurpSuite #Nessus #ZAP #Metasploit #Guide 🥷 INSPECTOR
+
+---
+## Источник
+- Канал: [[@it_fullstak]]
+- Оригинал: [Читать в Telegram](https://t.me/it_fullstak/3731)
+
+## Связанные заметки (Двунаправленные ссылки)
+- [[Superpowers_это_полноценная_методологи | Superpowers — это полноценная методологи...]]
+- [[CVE-2026-114938_Java4Shell_RCE_уязвимость_в_декодировщ | CVE-2026-114938: Java4Shell - RCE-уязвим...]]
+- [[CVE-2026-123007_NGINX2Root_уязвимости_в_nginx_позволя | CVE-2026-123007: NGINX2Root - уязвимости...]]
+- [[VULN_Уязвимости_в_Ruby_допускающие_удалённое | VULN: Уязвимости в Ruby, допускающие уда...]]
+- [[VULN_Релиз_языка_программирования_PHP_86_Се | VULN: Релиз языка программирования PHP 8...]]

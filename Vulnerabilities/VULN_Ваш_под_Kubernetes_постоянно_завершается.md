@@ -1,0 +1,27 @@
+---
+aliases: []
+tags: [vulnerabilities, devops_dev, "tg/@monitorim_it"]
+source: https://t.me/monitorim_it/2676
+date: 2026-11-19
+---
+
+# VULN: Ваш под Kubernetes постоянно завершается
+
+
+![Иллюстрация](https://cdn4.telesco.pe/file/F6mgtCuG3Zqn_EoX3JA9eK-0CyYgL8K5xn8RrLL0fcJpsvWhkvokuxu4prqSNGwEtyUwD51jAU5_leFNQGFc8CxuFCvW1RIJ9ol3N0ePfO4xPETUCFnOJgCCv3KKcW-04zWPFI3sMsdl1AU941vCy_rLARGQnNzGly3rkIhvg0MhrUvzYuveQYPzDXuNq1u8z6-_ZLBxhXBTnZYBAWanlw5nycV9wl4qvk8HlQlD3UEvU967gn1MtLP9rne9qAXHd2EIirYrVIGxy5LexEaIiQxJD8Z_GBPJEYo_YRPKj9l2p1knSnp4NRu8bIYSOkIhdwcX1yRbFgkaAi7MhYUc-w.jpg)
+
+
+## Содержание
+Ваш под Kubernetes постоянно завершается OOMKilled. Вот как SRE на самом деле разбираются в причинах (перевод статьи) kubectl top помогает найти контейнер с растущим потреблением памяти, но почти ничего не говорит о причине. А если приложение работает в distroless-образе без shell и диагностических утилит, привычное расследование становится ещё интереснее. В статье показано как диагностировать утечки памяти в Kubernetes: 🚀 подключение ephemeral container к работающему Pod через kubectl debug 🚀 доступ к пространству процессов основного контейнера 🚀 поиск подозрительного процесса с помощью top 🚀 анализ RSS, Dirty memory и анонимных областей через pmap 🚀 сравнение снимков памяти, чтобы подтвердить её устойчивый рост 🚀 корректный учёт разделяемой памяти с помощью smem 🚀 поиск места выделения памяти через eBPF и memleak.py 🚀 переход к профилировщикам конкретного языка: pprof , jcmd , heap dump или V8 Heap Snapshot 🚀 проверка фактического потребления памяти на уровне cgroups Главная мысль: перезапуск Pod устраняет симптом, а не утечку. Для поиска причины приходится спуститься ниже уровня Kubernetes и посмотреть, что происходит с памятью процесса на уровне Linux. Ваш под Kubernetes постоянно завершается OOMKilled. Вот как SRE на самом деле разбираются в причинах (перевод) Your Kubernetes Pod Keeps Getting OOMKilled. Here’s How SREs Actually Debug It (оригинал статьи на medium.com ) 📱 Telegram | 📲 MAX
+
+---
+## Источник
+- Канал: [[@monitorim_it]]
+- Оригинал: [Читать в Telegram](https://t.me/monitorim_it/2676)
+
+## Связанные заметки (Двунаправленные ссылки)
+- [[Superpowers_это_полноценная_методологи | Superpowers — это полноценная методологи...]]
+- [[CVE-2026-114938_Java4Shell_RCE_уязвимость_в_декодировщ | CVE-2026-114938: Java4Shell - RCE-уязвим...]]
+- [[CVE-2026-123007_NGINX2Root_уязвимости_в_nginx_позволя | CVE-2026-123007: NGINX2Root - уязвимости...]]
+- [[VULN_Уязвимости_в_Ruby_допускающие_удалённое | VULN: Уязвимости в Ruby, допускающие уда...]]
+- [[VULN_Релиз_языка_программирования_PHP_86_Се | VULN: Релиз языка программирования PHP 8...]]
